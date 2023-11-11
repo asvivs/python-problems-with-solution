@@ -3,7 +3,7 @@
 Welcome to the Python Problems repository! Here, you'll find a collection of Python programming challenges along with their solutions.
 
 ### 🐍 What's Inside?
-- **Problem Sets**: Various Python problems categorized by difficulty.
+- **Problem Sets**: Various Python problems.
 - **Solutions**: Clear and concise solutions provided for each problem.
 
 ### 🚀 How to Use:
@@ -14,6 +14,5 @@ Welcome to the Python Problems repository! Here, you'll find a collection of Pyt
 ### 🌟 Why This Repository?
 - Enhance Python skills through hands-on problem-solving.
 - Understand various problem-solving approaches.
-- Learn optimized Python coding practices.
 
 Let's solve problems and learn together! 🌟
